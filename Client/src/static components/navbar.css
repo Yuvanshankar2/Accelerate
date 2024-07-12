@@ -1,0 +1,56 @@
+/* Navbar.css */
+
+nav {
+    background-color: black;
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Padding inside the navbar */
+    font-family: Arial, sans-serif; /* Font family */
+    justify-content: center;
+    align-items: center;
+  }
+  .nav-bar {
+    background-color: #007bff;  /* Change to your desired blue shade */
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;  /* Fix navbar to top of screen */
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;  /* Ensure navbar stays above hero content */
+  }
+  
+  .nav-bar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  
+  ul {
+    list-style-type: none; /* Remove bullet points from the list */
+    padding: 0;
+    display: flex; /* Display items in a row */
+    
+  }
+  
+  li {
+    margin-right: 10px; /* Space between each list item */
+  }
+  
+  li a {
+    color: #fff; /* Link text color */
+    text-decoration: none; /* Remove underline from links */
+    padding: 10px; /* Padding inside each link */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+  }
+  
+  li a:hover {
+    background-color: #555; /* Darker background color on hover */
+  }
+
+  .header{
+     width: 80%;
+    color: white;
+  } 
+  
