@@ -3,14 +3,15 @@ import numpy as np
 from faker import Faker
 
 fake = Faker()
-names = [fake.name() for _ in range(0,31)]
+names = [fake.name() for _ in range(0,30)]
 
 physics = np.random.randint(0, 31, size=30)
 chemistry = np.random.randint(0, 31, size=30)
 math = np.random.randint(0, 31, size=30)
 
 collection = pd.DataFrame({
-   ' Physics':physics,
+    'Name': names,
+   'Physics':physics,
     'Math':math,
     'Chemistry':chemistry
 })

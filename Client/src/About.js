@@ -2,6 +2,7 @@ import React from 'react';
 import "./About.css"
 function About() {
   return (
+    <div>
     <div className="about-us">
     <div className="about-us-container">
       <h2>Empowering Students, 24/7</h2>
@@ -29,6 +30,7 @@ function About() {
       <p>
         Accelerate is here to level the playing field. We empower students to thrive, not just survive, in their introductory courses.
       </p>
+    </div>
     </div>
     </div>
   );

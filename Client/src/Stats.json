@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "001",
+    "Name": "Natalie Hunter",
+    "Physics": 16,
+    "Chemistry": 33,
+    "Math": 30
+  },
+  {
+    "_id": "002",
+    "Name": "Jocelyn Perez",
+    "Physics": 53,
+    "Chemistry": 71,
+    "Math": 78
+  },
+  {
+    "_id": "003",
+    "Name": "Andrew Banks",
+    "Physics": 80,
+    "Chemistry": 100,
+    "Math": 31
+  },
+  {
+    "_id": "004",
+    "Name": "Mark Miles",
+    "Physics": 42,
+    "Chemistry": 96,
+    "Math": 74
+  },
+  {
+    "_id": "005",
+    "Name": "Ashley Medina",
+    "Physics": 1,
+    "Chemistry": 18,
+    "Math": 26
+  },
+  {
+    "_id": "006",
+    "Name": "Timothy Andrews",
+    "Physics": 10,
+    "Chemistry": 15,
+    "Math": 59
+  },
+  {
+    "_id": "007",
+    "Name": "Carrie Petersen",
+    "Physics": 9,
+    "Chemistry": 71,
+    "Math": 76
+  },
+  {
+    "_id": "008",
+    "Name": "Michael Gutierrez",
+    "Physics": 82,
+    "Chemistry": 28,
+    "Math": 13
+  },
+  {
+    "_id": "009",
+    "Name": "Melinda Petty",
+    "Physics": 30,
+    "Chemistry": 85,
+    "Math": 6
+  },
+  {
+    "_id": "010",
+    "Name": "Arthur Brown",
+    "Physics": 90,
+    "Chemistry": 14,
+    "Math": 54
+  },
+  {
+    "_id": "011",
+    "Name": "Sabrina Reed",
+    "Physics": 94,
+    "Chemistry": 32,
+    "Math": 4
+  },
+  {
+    "_id": "012",
+    "Name": "Danielle Davis",
+    "Physics": 93,
+    "Chemistry": 5,
+    "Math": 32
+  },
+  {
+    "_id": "013",
+    "Name": "Michael Perez",
+    "Physics": 26,
+    "Chemistry": 3,
+    "Math": 38
+  },
+  {
+    "_id": "014",
+    "Name": "Brandon Washington",
+    "Physics": 97,
+    "Chemistry": 86,
+    "Math": 72
+  },
+  {
+    "_id": "015",
+    "Name": "Amanda Baird",
+    "Physics": 80,
+    "Chemistry": 59,
+    "Math": 42
+  },
+  {
+    "_id": "016",
+    "Name": "Judith Cline",
+    "Physics": 83,
+    "Chemistry": 91,
+    "Math": 1
+  },
+  {
+    "_id": "017",
+    "Name": "Christopher Morse",
+    "Physics": 85,
+    "Chemistry": 40,
+    "Math": 4
+  },
+  {
+    "_id": "018",
+    "Name": "Tonya Merritt",
+    "Physics": 77,
+    "Chemistry": 44,
+    "Math": 100
+  },
+  {
+    "_id": "019",
+    "Name": "Billy Warner",
+    "Physics": 47,
+    "Chemistry": 9,
+    "Math": 37
+  },
+  {
+    "_id": "020",
+    "Name": "Philip Ochoa",
+    "Physics": 96,
+    "Chemistry": 33,
+    "Math": 91
+  },
+  {
+    "_id": "021",
+    "Name": "Ethan Howard",
+    "Physics": 3,
+    "Chemistry": 28,
+    "Math": 80
+  },
+  {
+    "_id": "022",
+    "Name": "Jimmy Rodriguez",
+    "Physics": 93,
+    "Chemistry": 45,
+    "Math": 82
+  },
+  {
+    "_id": "023",
+    "Name": "Dorothy Scott",
+    "Physics": 4,
+    "Chemistry": 11,
+    "Math": 58
+  },
+  {
+    "_id": "024",
+    "Name": "Jessica Hahn",
+    "Physics": 14,
+    "Chemistry": 7,
+    "Math": 85
+  },
+  {
+    "_id": "025",
+    "Name": "Tiffany Yu",
+    "Physics": 44,
+    "Chemistry": 8,
+    "Math": 46
+  },
+  {
+    "_id": "026",
+    "Name": "Kelsey Terry",
+    "Physics": 47,
+    "Chemistry": 45,
+    "Math": 6
+  },
+  {
+    "_id": "027",
+    "Name": "Warren Rodriguez",
+    "Physics": 91,
+    "Chemistry": 42,
+    "Math": 69
+  },
+  {
+    "_id": "028",
+    "Name": "Alexandria Christensen",
+    "Physics": 5,
+    "Chemistry": 98,
+    "Math": 10
+  },
+  {
+    "_id": "029",
+    "Name": "Ashley Dixon",
+    "Physics": 15,
+    "Chemistry": 48,
+    "Math": 93
+  },
+  {
+    "_id": "030",
+    "Name": "Brandon Dyer",
+    "Physics": 25,
+    "Chemistry": 2,
+    "Math": 36
+  }
+]

@@ -2,7 +2,8 @@ import React from 'react'
 
 function StudentList() {
   return (
-    <div>StudentList</div>
+    <div>
+      <img src={require("./Student.png")} alt="No plot" width="5000" height="700"/></div>
   )
 }
 
