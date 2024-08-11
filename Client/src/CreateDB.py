@@ -1,3 +1,5 @@
+# This program helps us build the json object representing the information of all the students in the institution. The object will be used
+# to fill up our database in a mongodb server. We can add as many students as possible and analyze their performance.
 import pandas as pd
 import numpy as np
 from faker import Faker

@@ -27,8 +27,7 @@
     color:black;
   }
  .parent-container {
-     /* centers horizontally */
-    align-items: center; /* centers vertically */
+    align-items: center; 
   }
   
    .options {

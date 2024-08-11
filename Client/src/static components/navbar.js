@@ -1,5 +1,6 @@
-
-
+/**
+ * This component represents the navigation bar in our application.
+ */
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './navbar.css'

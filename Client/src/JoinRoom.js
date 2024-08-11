@@ -1,8 +1,7 @@
-// This is for students only. They have to enter their school id. 
-// Once they do, it should be sent to the server.
-// The event listener should loop through the rooms and find the room which contains the id. 
-// Once it does, it has to join the client to that room. 
-// Finally, this page has to navigate to the chat page with the socket, and name passed on.
+/**
+ * This component is for students. As a student, you will be asked to enter your name. On doing so, you will be directed to the chat group
+ * you are assigned to based off your performance in class and the amount of experience you have in your major. 
+ */
 import React from 'react'
 import "./Join.css";
 import {useState} from 'react'

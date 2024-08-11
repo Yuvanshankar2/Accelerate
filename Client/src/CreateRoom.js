@@ -1,9 +1,6 @@
-// When you click on the button, it should call create(). 
-// In create(), get the specialization subject from the teacher database using the name props. 
-// Pass that in the student database, and get the students who scored below in that very subject. This should return a list.
-// Once you get the list of users who have scored below 50 marks through mongodb, connect to the server, and you emit the details with a create room event. A room will be created in the server.
-// Navigate to the chat page where you pass in the socket, name, and room.
-// Extra: Design the page and fields
+/**
+ * This component is designed for teachers. As a teacher, you will be asked to provide a name for the group chat. On doing so, you will be directed to the group chat where you wait for other student to join in.
+ */
 import React from 'react';
 import "./App.css";
 import { useState } from 'react';

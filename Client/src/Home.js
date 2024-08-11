@@ -1,3 +1,6 @@
+/**
+ * This component is the hero page of my project. You can start using this app by clikcing on the "Start" button.
+ */
 import React from 'react'
 import "./Home.css"
 import { useNavigate } from 'react-router-dom';

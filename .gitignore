@@ -2,3 +2,9 @@ Server/config
 Server/node_modules
 Client/node_modules
 Client/config
+docker.env
+Client/.dockerignore
+Client/Dockerfile
+Server/Dockerfile
+Server/.dockerignore
+docker-compose.yml

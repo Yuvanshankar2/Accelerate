@@ -1,3 +1,9 @@
+/**
+ * This component displays the chat group. You will be connected to students who struggle with the same subjects as you and an instructor,
+ *  who specializes in that particular discipline. As a student, you can discuss concepts, assignments, and ask questions to your instructor.
+ * As an instructor, you can explain introductory concepts, help students with homework, and provide them with study plans and useful supplementary 
+ * material.
+ */
 import React, { useEffect, useState } from "react";
 import ScrollToBottom from "react-scroll-to-bottom";
 function Chat({ socket, username, room }) {

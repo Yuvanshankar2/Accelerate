@@ -1,3 +1,8 @@
+/**
+ * This component is designed for teachers. As a teacher, you will be asked for your name and the subject you teach. On entering these details,
+ * you will be directed to a page where you will be asked to provide a name for your group chat.  
+ */
+
 import React from 'react'
 import {useState} from 'react'
 import './App.css'

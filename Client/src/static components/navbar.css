@@ -1,23 +1,22 @@
-/* Navbar.css */
 
 nav {
     background-color: black;
-    color: #fff; /* Text color */
-    padding: 10px 20px; /* Padding inside the navbar */
-    font-family: Arial, sans-serif; /* Font family */
+    color: #fff; 
+    padding: 10px 20px; 
+    font-family: Arial, sans-serif; 
     justify-content: center;
     align-items: center;
   }
   .nav-bar {
-    background-color: #007bff;  /* Change to your desired blue shade */
+    background-color: #007bff;  
     padding: 1rem 2rem;
     display: flex;
     justify-content: space-between;
-    position: fixed;  /* Fix navbar to top of screen */
+    position: fixed; 
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 10;  /* Ensure navbar stays above hero content */
+    z-index: 10;  
   }
   
   .nav-bar a {
@@ -28,25 +27,25 @@ nav {
   
   
   ul {
-    list-style-type: none; /* Remove bullet points from the list */
+    list-style-type: none; 
     padding: 0;
-    display: flex; /* Display items in a row */
+    display: flex; 
     
   }
   
   li {
-    margin-right: 10px; /* Space between each list item */
+    margin-right: 10px; 
   }
   
   li a {
-    color: #fff; /* Link text color */
-    text-decoration: none; /* Remove underline from links */
-    padding: 10px; /* Padding inside each link */
-    transition: background-color 0.3s ease; /* Smooth transition for background color */
+    color: #fff; 
+    text-decoration: none; 
+    padding: 10px; 
+    transition: background-color 0.3s ease; 
   }
   
   li a:hover {
-    background-color: #555; /* Darker background color on hover */
+    background-color: #555; 
   }
 
   .header{

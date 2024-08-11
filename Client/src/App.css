@@ -35,11 +35,11 @@ body {
   margin: 7px;
   border: none;
   border-radius: 5px;
-  padding: 10px; /* Increased padding */
+  padding: 10px; 
   border:2px solid black;
   font-size: 16px;
-  background: blue; /* Blue background */
-  color: #fff; /* White text */
+  background: blue; 
+  color: #fff; 
   cursor: pointer;
 }
 

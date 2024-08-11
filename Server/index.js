@@ -1,3 +1,6 @@
+/**
+ * This is the backend of my web application. It is integrated with websocket functionalities, and handles requests from the frontend.
+ */
 const express = require("express");
 const app = express();
 const {MongoClient} = require('mongodb');

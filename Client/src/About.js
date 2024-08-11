@@ -1,3 +1,6 @@
+/**
+ * This component displays the main description of this project. It mentions the idea behind this app. 
+ */
 import React from 'react';
 import "./About.css"
 function About() {

@@ -1,3 +1,6 @@
+/**
+ * This component displays a statistical representation of the school performance.
+ */
 import React from 'react'
 
 function StudentList() {

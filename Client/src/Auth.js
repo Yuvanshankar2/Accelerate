@@ -1,5 +1,8 @@
-// This page only wants to check if you are a student or teacher. If teacher, it will take you to the reguster page. If student, it will take 
-// you to the join room page.
+/**
+ * This component checks your identity. If you are a student, you have to enter your name and you will be directed to your assigned 
+ * chat group. If you are a teacher, you will be directed to a page where you will be asked to create a group with students struggling with the subject
+ * you specialize in.
+ */
 import React from 'react'
 import { useState } from 'react'
 import JoinRoom from './JoinRoom'
